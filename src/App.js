@@ -1,6 +1,6 @@
 // App.js
 import React, { useState, useEffect } from "react";
-import { BrowserRouter as Router, Route, Routes, Link, useParams } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import SearchBar from "./Components/SearchBar";
 import PokemonDetails from "./Components/PokemonDetails";
 import Pagination from "./Components/Pagination";
